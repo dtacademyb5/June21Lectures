@@ -10,6 +10,9 @@ public class Animals {
         System.out.println("   \"\"    \"\" ");
 
         System.out.println();
+        
+         System.out.println();
+         System.out.println();
     }
 
 
