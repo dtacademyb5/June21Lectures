@@ -8,6 +8,8 @@ public class Animals {
         System.out.println("*  ||----||");
         System.out.println("   \u00a5\u00a5    \u00a5\u00a5 ");
         System.out.println("   \"\"    \"\" ");
+
+        System.out.println();
     }
 
 
